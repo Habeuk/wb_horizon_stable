@@ -1,0 +1,13 @@
+{
+    "name": "stephane/wb_horizon_stable",
+    "description": "permet d'avoir des packet stable pour wb-horizon en production",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kouwa stephane",
+            "email": "kksasteph888@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
