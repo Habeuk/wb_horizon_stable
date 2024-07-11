@@ -22,6 +22,7 @@
         "drupal/commerce_stripe": "1.1.0",
         "drupal/core-recommended": "10.3.1",
         "drupal/ctools": "4.1.0",
+        "drupal/domain": "2.0.x-dev#15980e5498b2adb088c61c9eca2cb4f2cf59b1cf",
         "drupal/entity_block": "1.1.0",
         "drupal/entity_reference_revisions": "1.11.0",
         "drupal/field_formatter_class": "1.6.0",
