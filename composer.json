@@ -10,7 +10,7 @@
   ],
   "minimum-stability": "dev",
   "require": {
-	"commerceguys/intl": "v2.0.5",
+    "commerceguys/intl": "v2.0.5",
     "drupal/admin_toolbar": "3.4.2",
     "drupal/apivuejs": "1.2.6|dev-1x",
     "drupal/better_exposed_filters": "6.0.6",
@@ -60,7 +60,7 @@
     "habeuk/bks_schedule": "1.0.0",
     "habeuk/blockscontent": "1.1.4",
     "habeuk/booking_system": "2.0.4",
-    "habeuk/bookingsystem_autoecole": "1.0.6",
+    "habeuk/bookingsystem_autoecole": "1.0.7",
     "habeuk/buildercv": "1.1.4",
     "habeuk/buildercvlayouts": "1.0.1.2",
     "habeuk/clothingslayouts": "1.1.8",
