@@ -10,6 +10,7 @@
   ],
   "minimum-stability": "dev",
   "require": {
+	"commerceguys/intl": "v2.0.5",
     "drupal/admin_toolbar": "3.4.2",
     "drupal/apivuejs": "1.2.6|dev-1x",
     "drupal/better_exposed_filters": "6.0.6",
