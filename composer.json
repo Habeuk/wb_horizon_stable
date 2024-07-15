@@ -60,7 +60,7 @@
     "habeuk/bks_schedule": "1.0.0",
     "habeuk/blockscontent": "1.1.4",
     "habeuk/booking_system": "2.0.4",
-    "habeuk/bookingsystem_autoecole": "1.0.5",
+    "habeuk/bookingsystem_autoecole": "1.0.6",
     "habeuk/buildercv": "1.1.4",
     "habeuk/buildercvlayouts": "1.0.1.2",
     "habeuk/clothingslayouts": "1.1.8",
@@ -82,6 +82,7 @@
     "habeuk/votings_renders": "1.2.1",
     "stephane888/fielditem_renderby_view": "2.0.3",
     "stephane888/modeldessange": "1.0.2",
-    "stephane888/wb_horizon_public": "1.1.11|dev-1x"
+    "stephane888/wb_horizon_public": "1.1.11|dev-1x",
+    "stephane888/migrationwbh": "1.4.25"
   }
 }
