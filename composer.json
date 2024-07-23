@@ -162,6 +162,7 @@
     "habeuk/stripebyhabeuk": "1.1.4",
     "habeuk/vixcon": "1.1.4",
     "habeuk/votings_renders": "1.2.1",
+    "habeuk/wb_commerce": "1.0.20",
     "jawira/case-converter": "v3.5.1",
     "justinrainbow/json-schema": "5.3.0",
     "kint-php/kint": "5.1.1",
