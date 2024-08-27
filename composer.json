@@ -254,7 +254,7 @@
     "slevomat/coding-standard": "8.15.0",
     "spatie/temporary-directory": "2.2.1",
     "squizlabs/php_codesniffer": "3.10.1",
-    "stephane888/creation_site_virtuel": "1.7.6.4",
+    "stephane888/creation_site_virtuel": "1.7.6.5",
     "stephane888/fielditem_renderby_view": "2.0.3",
     "stephane888/formatter_render_field": "1.0.2",
     "stephane888/generate_domain_vps": "1.0.14",
