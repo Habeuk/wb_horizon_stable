@@ -131,11 +131,7 @@
     "guzzlehttp/guzzle": "7.8.2",
     "guzzlehttp/promises": "2.0.3",
     "guzzlehttp/psr7": "2.6.3",
-<<<<<<< HEAD
-    "habeuk/apivuejs": "1.2.10|1.x-dev|2.x-dev",
-=======
     "habeuk/apivuejs": "1.2.28|1.x-dev",
->>>>>>> 7a0917615fa7a2a663e2759987e9b55c9e0f96e7
     "habeuk/bestlayouts": "1.0.4",
     "habeuk/bks_schedule": "1.0.0",
     "habeuk/blockscontent": "1.1.4",
@@ -156,7 +152,7 @@
     "habeuk/hbkcolissimochrono": "1.0.8",
     "habeuk/hot_models": "1.2.4",
     "habeuk/htmlbootstrap": "1.5.0",
-    "habeuk/language_lighter": "1.0.2|1.x-dev", 
+    "habeuk/language_lighter": "1.0.2|1.x-dev",
     "habeuk/layoutscommerce": "1.8.10",
     "habeuk/login_rx_vuejs": "2.3.4",
     "habeuk/manage_module_config": "1.0.6",
