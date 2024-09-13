@@ -36,7 +36,7 @@
     "doctrine/lexer": "2.1.1",
     "drupal/address": "2.0.2",
     "drupal/admin_toolbar": "3.4.2",
-    "drupal/apivuejs": "1.2.10",
+    "drupal/apivuejs": "1.2.28",
     "drupal/better_exposed_filters": "6.0.6",
     "drupal/bootstrap_layout_builder": "2.1.2",
     "drupal/bootstrap_styles": "1.1.6",
@@ -131,7 +131,11 @@
     "guzzlehttp/guzzle": "7.8.2",
     "guzzlehttp/promises": "2.0.3",
     "guzzlehttp/psr7": "2.6.3",
+<<<<<<< HEAD
     "habeuk/apivuejs": "1.2.10|1.x-dev|2.x-dev",
+=======
+    "habeuk/apivuejs": "1.2.28|1.x-dev",
+>>>>>>> 7a0917615fa7a2a663e2759987e9b55c9e0f96e7
     "habeuk/bestlayouts": "1.0.4",
     "habeuk/bks_schedule": "1.0.0",
     "habeuk/blockscontent": "1.1.4",
