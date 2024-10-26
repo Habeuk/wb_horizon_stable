@@ -133,7 +133,7 @@
     "guzzlehttp/promises": "2.0.3",
     "guzzlehttp/psr7": "2.6.3",
     "habeuk/apivuejs": "1.2.28|1.x-dev",
-    "habeuk/bestlayouts": "1.0.7",
+    "habeuk/bestlayouts": "1.0.8|dev-1x",
     "habeuk/bks_schedule": "1.0.0",
     "habeuk/blockscontent": "1.1.4",
     "habeuk/booking_system": "2.0.5",
