@@ -114,7 +114,7 @@
     "google/protobuf": "v3.25.3",
     "grasmash/expander": "3.0.0",
     "grasmash/yaml-cli": "3.2.1",
-    "habeuk/bestlayouts": "1.0.16|dev-1x",
+    "habeuk/bestlayouts": "1.0.17|dev-1x",
     "habeuk/bks_schedule": "1.0.1",
     "habeuk/blockscontent": "1.1.4",
     "habeuk/booking_system": "2.0.5",
