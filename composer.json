@@ -77,7 +77,7 @@
     "drupal/lang_dropdown": "^2.1.0",
     "drupal/languageicons": "^2.0.0-beta5",
     "drupal/layout_custom_style": "1.1.2",
-    "drupal/layoutgenentitystyles": "5.0.3",
+    "drupal/layoutgenentitystyles": "5.0.4",
     "drupal/mail_login": "^4.0.3",
     "drupal/mailsystem": "^4.4.0",
     "drupal/media_library_form_element": "^2.1.0",
